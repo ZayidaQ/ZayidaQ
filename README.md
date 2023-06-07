@@ -36,7 +36,7 @@ My passion lies in design, and I'm currently focused on becoming a front-end dev
 <br/>  
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZayidaQ&hide_border=true&layout=compact" align="center" /></div> 
+<div align="right"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZayidaQ&hide_border=true&layout=compact" align="right" /></div> 
 
 <br/>  
 
