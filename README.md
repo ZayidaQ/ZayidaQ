@@ -1,19 +1,5 @@
 <img src="4A18F555-92F4-40AB-A256-A7F67CA5296A.jpeg" alt="Banner">
 
-### <div align="center">Hello, I'm [Your Name], a student at YearUp's application development program. 👩🏻‍💻</div>  
-  
-- My passion lies in design, and I'm currently focused on becoming a front-end developer while aspiring to transition into the UI/UX field. I spend my free time working on small projects using HTML, CSS, and JavaScript to expand my knowledge. I'm also enrolled in Udemy courses to further enhance my skills and earn certificates. I am a dedicated learner, always seeking new opportunities to grow. Excited about the future and the endless possibilities it holds.  
-  
-
-- 🌱 I’m currently learning JS  
-  
-
-- ❓ Feel free to reach out if you have any questions!  
-  
-
-- ⚡ Fun fact: I used to compete in dance!  
-
-## Connect with me  
 <div align="center">
 <a href="https://github.com/ZayidaQ" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
@@ -24,9 +10,19 @@
 <a href="https://linkedin.com/in/zhayida-haishan-279200238" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
-</div>  
+</div> 
 
-<br/>  
+### <div align="center">Hello, I'm Zhayida Haishan, a student at YearUp's application development program. 👩🏻‍💻</div>  
+  
+My passion lies in design, and I'm currently focused on becoming a front-end developer while aspiring to transition into the UI/UX field. I spend my free time working on small projects using HTML, CSS, and JavaScript to expand my knowledge. I'm also enrolled in Udemy courses to further enhance my skills and earn certificates. I am a dedicated learner, always seeking new opportunities to grow. Excited about the future and the endless possibilities it holds.  
+
+- 🌱 I’m currently learning JS  
+
+- ❓ Feel free to reach out if you have any questions!  
+  
+- ⚡ Fun fact: I used to compete in dance!  
+
+<br />
 
 
 ## My Skill Set  
