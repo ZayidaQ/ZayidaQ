@@ -40,7 +40,3 @@ As a lifelong learner, I am enthusiastic about staying updated with the latest i
 </div>
   
 <br/>  
-
-## Github Stats  
-<div align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZayidaQ&hide_border=true&layout=compact" align="left" /></div> 
-
