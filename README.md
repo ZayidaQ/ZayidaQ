@@ -25,8 +25,6 @@ As a lifelong learner, I am enthusiastic about staying updated with the latest i
 - 🌱 I’m currently learning JS  
 
 - ❓ Feel free to reach out if you have any questions!  
-  
-- ⚡ Fun fact: I used to compete in dance!  
 
 <br />
 
