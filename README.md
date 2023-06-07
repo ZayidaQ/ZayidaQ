@@ -36,13 +36,7 @@ My passion lies in design, and I'm currently focused on becoming a front-end dev
 <br/>  
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishavanand&hide_border=true&layout=compact" align="center" /></div>
-
-<img src="https://github-readme-stats.vercel.app/api?username=ZayidaQ&show_icons=true&count_private=true&hide_border=true" align="center" />
-
-<br/>  
-
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=4svy86tb4rcsi1op1tr0nl95h&cover_image=false&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false" /></div>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZayidaQ&hide_border=true&layout=compact" align="center" /></div> 
 
 <br/>  
 
@@ -50,17 +44,5 @@ My passion lies in design, and I'm currently focused on becoming a front-end dev
 <img src="https://komarev.com/ghpvc/?username=ZayidaQ&&style=flat-square" align="center" />
 </div>  
   
-
-<br/>  
-
-
-<br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=ZayidaQ&&style=flat-square" align="center" />
-</div>  
 
 <br/>  
