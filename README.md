@@ -10,9 +10,13 @@
 <a href="https://linkedin.com/in/zhayida-haishan-279200238" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
-</div> 
+</div>
 
-### <div align="center">Hello, I'm Zhayida Haishan, a student at YearUp's application development program. 👩🏻‍💻</div>  
+<br />
+
+### <div align="center">Hello, I'm Zhayida Haishan, a student at YearUp's application development program. 👩🏻‍💻</div> 
+
+<br />
   
 With a strong passion for design, I'm focused on becoming a skilled front-end developer while also aspiring to transition into the exciting world of UI/UX.
 
