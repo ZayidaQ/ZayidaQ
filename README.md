@@ -12,6 +12,7 @@
 </a>  
 </div>
 
+<hr />
 <br />
 
 ### <div align="center">Hello, I'm Zhayida Haishan, a student at YearUp's application development program. 👩🏻‍💻</div> 
