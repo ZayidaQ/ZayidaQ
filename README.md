@@ -14,7 +14,7 @@
 
 ### <div align="center">Hello, I'm Zhayida Haishan, a student at YearUp's application development program. 👩🏻‍💻</div>  
   
-Hello, I'm Zhayida Haishan (Zayida)! I am currently a student at YearUp, enrolled in their application development program. With a strong passion for design, I'm focused on becoming a skilled front-end developer while also aspiring to transition into the exciting world of UI/UX.
+With a strong passion for design, I'm focused on becoming a skilled front-end developer while also aspiring to transition into the exciting world of UI/UX.
 
 During my free time, I love exploring small projects that allow me to deepen my knowledge and proficiency in HTML, CSS, and JavaScript. I find immense joy in bringing ideas to life through creative web development. It's the perfect blend of my passion for design and my love for coding.
 
