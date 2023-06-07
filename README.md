@@ -1,5 +1,5 @@
 <img src="4A18F555-92F4-40AB-A256-A7F67CA5296A.jpeg" alt="Banner">
-### <div align="center">Hello, I'm [Your Name], a student at YearUp's application development program. 👩🏻‍💻</div>  
+### <div align="center">Hello, I'm Zhayida Haishan, a student at YearUp's application development program. 👩🏻‍💻</div>  
   
 
 - My passion lies in design, and I'm currently focused on becoming a front-end developer while aspiring to transition into the UI/UX field. I spend my free time working on small projects using HTML, CSS, and JavaScript to expand my knowledge. I'm also enrolled in Udemy courses to further enhance my skills and earn certificates. I am a dedicated learner, always seeking new opportunities to grow. Excited about the future and the endless possibilities it holds.  
@@ -21,8 +21,7 @@
 <table><tr><td valign="top" width="33%">
 
 
-
-### Frontend  
+## Frontend  
 <div align="center">  
 <a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>  
 <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
